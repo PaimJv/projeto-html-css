@@ -59,7 +59,7 @@ body{
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
-    gap: 1rem;
+    gap: 0.7rem;
 }
 
 .apresentacao__links__subtitulo{
