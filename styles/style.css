@@ -40,6 +40,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 2.5rem;
+    text-align: justify;
 }
 
 .apresentacao__conteudo__titulo{
