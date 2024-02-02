@@ -84,6 +84,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 1rem;
+    text-align: justify;
 }
 
 .apresentacao__links__link:hover{
